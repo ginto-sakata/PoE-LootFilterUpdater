@@ -1,4 +1,4 @@
-﻿#NoTrayIcon
+#NoTrayIcon
 #NoEnv
 #Warn
 #SingleInstance Force
@@ -8,28 +8,26 @@ Transform, docpath, Deref, %A_MyDocuments%\My Games\Path of Exile\
 url := "url"
 version := "Loot Filter Updater v0.4"
 
-URLDownloadToFile, https://dl.dropboxusercontent.com/s/18rhv90pmjt8603/version.txt, version.txt
+URLDownloadToFile, https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/version.txt, version.txt
 new := StrObj("version.txt")
 If new.ver != version 
 MsgBox,1,wow!, New version available! Download?
 IfMsgBox OK
 {
 FileRemoveDir, %A_Temp%\filter, 1
-    Run https://dl.dropboxusercontent.com/s/oja1f8msctjh3e0/LootFilterUpdater.ahk?dl=1
+    Run https://github.com/ginto-sakata/PoE-LootFilterUpdater/releases
 ExitApp
 }
 	else 
 
 IfNotExist, icon.ico
-URLDownloadToFile, https://dl.dropboxusercontent.com/s/wv523j1iz8k2lny/icon.ico, icon.ico
+URLDownloadToFile, https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/icon.ico, icon.ico
 IfNotExist, default.png
-URLDownloadToFile, https://dl.dropboxusercontent.com/s/17ropz4gmn6r09t/default.png, default.png
+URLDownloadToFile, https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/default.png, default.png
 IfNotExist, font.ttf
-UrlDownloadToFile, https://dl.dropboxusercontent.com/s/9zzyog4yz2j4vx9/Fontin-SmallCaps.ttf, font.ttf
-; IfNotExist, about.txt ; do i need to download about everytime?
-URLDownloadToFile, https://dl.dropboxusercontent.com/s/rujqzl642j48xih/about.txt, about.txt
-; IfNotExist filters.txt
-URLDownloadToFile, https://dl.dropboxusercontent.com/s/wg67n1ugzmexpsf/filters.txt, filters.txt
+UrlDownloadToFile, https://github.com/ginto-sakata/PoE-LootFilterUpdater/raw/master/Fontin-SmallCaps.ttf, font.ttf
+URLDownloadToFile, https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/about.txt, about.txt
+URLDownloadToFile, https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/filters.txt, filters.txt
 
 var0=%0%
 var1=%1%
@@ -37,7 +35,7 @@ if var0 != "0"
 {
 	if var1 != -local
 	{
-	URLDownloadToFile, https://dl.dropboxusercontent.com/s/wg67n1ugzmexpsf/filters.txt, filters.txt
+	URLDownloadToFile, https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/filters.txt, filters.txt
 	}
 }
 
