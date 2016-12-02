@@ -1,56 +1,67 @@
 1:
 	name: NeverSink
+	info: NeverSink's Indepth Loot Filter - Regular Version
 	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - REGULAR.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink.png
-	info: NeverSink's Indepth Loot Filter - Regular Version
+	
 2:
 	name: Neversink_blue
+	info: NeverSink's Indepth Loot Filter - Regular Version (Blue Style)
 	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/4.301/(STYLE) BLUE/NeverSink's filter - REGULAR (Blue) .filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Neversink_blue.png
-	info: NeverSink's Indepth Loot Filter - Regular Version (Blue Style)
+	
 3:
 	name: Neversink_slick
+	info: NeverSink's Indepth Loot Filter - Regular Version (Slick Style)
 	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) SLICK/NeverSink's filter - REGULAR (Slick) .filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Neversink_slick.png
-	info: NeverSink's Indepth Loot Filter - Regular Version (Slick Style)
+	
 
 4:
 	name: NeverSink_SEMI-STRICT
+	info: NeverSink's Indepth Loot Filter - SEMI-STRICT Version
 	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - SEMI-STRICT.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink_SEMI-STRICT.png
-	info: NeverSink's Indepth Loot Filter - SEMI-STRICT Version
+	
 5:
 	name: NeverSink_STRICT
+	info: NeverSink's Indepth Loot Filter - STRICT Version
 	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - STRICT.filter
 	img:https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink_STRICT.png
-	info: NeverSink's Indepth Loot Filter - STRICT Version
+	
 6:
 	name: NeverSink_UBER-STRICT
+	info: NeverSink's Indepth Loot Filter - UBER-STRICT Version
 	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - UBER-STRICT.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink_UBER-STRICT.png
-	info: NeverSink's Indepth Loot Filter - UBER-STRICT Version
+	
 7:
 	name: Sayya
+	info: Sayya's item filter
 	url: https://raw.githubusercontent.com/SayyadinaAtreides/sayya-poe-filter/master/sayya_default.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Sayya.png
-	info: Sayya's item filter
+	
 8:
 	name: Antnee
+	info: Antnee's Classy Filter!
 	url: https://gist.githubusercontent.com/Antnee83/64583c87817dec1fedd4/raw
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Antnee.png
-	info: Antnee's Classy Filter!
+	
 9:
-	url: http://www.thiessen.im/PoE/oftrta_v2.5.0.filter
 	name: One_Filter_to_Rule_Them_All
-	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/One_Filter_to_Rule_Them_All.png
 	info: One Filter to Rule Them All
+	url: http://www.thiessen.im/PoE/oftrta_v2.5.0.filter
+	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/One_Filter_to_Rule_Them_All.png
+	
 10:
 	name: Greengroove_leveling
-	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Greengroove_leveling.png
-	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/GG 250a Filter/GG 250a leveling.filter
 	info: Greengroove's Loot Filter Scripts - leveling
+	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/GG 250a Filter/GG 250a leveling.filter
+	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Greengroove_leveling.png
+	
 11:
 	name: Barri
+	info: Barri's SpeedyLoot - Rota And Speed Mapping Item Filter
 	url: http://pastebin.com/raw/ihCYYE3t
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Barri.png
-	info: Barri's SpeedyLoot - Rota And Speed Mapping Item Filter
+	
