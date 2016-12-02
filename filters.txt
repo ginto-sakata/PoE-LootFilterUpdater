@@ -1,0 +1,56 @@
+1:
+	name: NeverSink
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - REGULAR.filter
+	img: https://dl.dropboxusercontent.com/s/c108q3lv70qf476/NeverSink.png
+	info: NeverSink's Indepth Loot Filter - Regular Version
+2:
+	name: Neversink_blue
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/4.301/(STYLE) BLUE/NeverSink's filter - REGULAR (Blue) .filter
+	img: https://dl.dropboxusercontent.com/s/4wt424mi95za3my/Neversink_blue.png
+	info: NeverSink's Indepth Loot Filter - Regular Version (Blue Style)
+3:
+	name: Neversink_slick
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) SLICK/NeverSink's filter - REGULAR (Slick) .filter
+	img: https://dl.dropboxusercontent.com/s/yrlq55itqwl01su/Neversink_slick.png
+	info: NeverSink's Indepth Loot Filter - Regular Version (Slick Style)
+
+4:
+	name: NeverSink_SEMI-STRICT
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - SEMI-STRICT.filter
+	img: https://dl.dropboxusercontent.com/s/2tzk4xpfj1q2ap3/NeverSink_SEMI-STRICT.png
+	info: NeverSink's Indepth Loot Filter - SEMI-STRICT Version
+5:
+	name: NeverSink_STRICT
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - STRICT.filter
+	img: https://dl.dropboxusercontent.com/s/2hf4xs0eehbog1l/NeverSink_STRICT.png
+	info: NeverSink's Indepth Loot Filter - STRICT Version
+6:
+	name: NeverSink_UBER-STRICT
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - UBER-STRICT.filter
+	img: https://dl.dropboxusercontent.com/s/tjyxgd9fminbn2j/NeverSink_UBER-STRICT.png
+	info: NeverSink's Indepth Loot Filter - UBER-STRICT Version
+7:
+	name: Sayya
+	url: https://raw.githubusercontent.com/SayyadinaAtreides/sayya-poe-filter/master/sayya_default.filter
+	img: https://dl.dropboxusercontent.com/s/i64vskxuw5vjmz1/Sayya.png
+	info: Sayya's item filter
+8:
+	name: Antnee
+	url: https://gist.githubusercontent.com/Antnee83/64583c87817dec1fedd4/raw
+	img: https://dl.dropboxusercontent.com/s/n9m4zgrizhdhj8m/Antnee.png
+	info: Antnee's Classy Filter!
+9:
+	url: http://www.thiessen.im/PoE/oftrta_v2.5.0.filter
+	name: One_Filter_to_Rule_Them_All
+	img: https://dl.dropboxusercontent.com/s/src1oe488ea5tib/One_Filter_to_Rule_Them_All.png
+	info: One Filter to Rule Them All
+10:
+	name: Greengroove_leveling
+	img: https://dl.dropboxusercontent.com/s/20jsc095o8kcjs0/Greengroove_leveling.png
+	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/GG 250a Filter/GG 250a leveling.filter
+	info: Greengroove's Loot Filter Scripts - leveling
+11:
+	name: Barri
+	url: http://pastebin.com/raw/ihCYYE3t
+	img: https://dl.dropboxusercontent.com/s/l2la4qsf7qixfra/Barri.png
+	info: Barri's SpeedyLoot - Rota And Speed Mapping Item Filter

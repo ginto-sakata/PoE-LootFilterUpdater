@@ -1,0 +1,17 @@
+﻿This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See <a href="http://www.wtfpl.net">http://www.wtfpl.net</a> for more details.
+
+I'm using free "Fontin" font from exljbris Font Foundry <a href="http://www.exljbris.com/fontin.html">http://www.exljbris.com/fontin.html</a>
+ahk class CustomFont v2.00 by tmplinshi <a href="https://gist.github.com/tmplinshi/7717340">https://gist.github.com/tmplinshi/771734</a>
+ahk class String-object-file by Learning one (Boris Mudrinić) <a href="https://autohotkey.com/board/topic/104854-string-object-file-data-structures-in-yaml-like-style/">
+https://autohotkey.com/board/topic/104854-string-object-file-data-structures-in-yaml-like-style</a>
+
+Screenshots taken in Benjamin Schug's poedit: Path of Exile ItemScript Editor / Preview
+<a href="https://bschug.github.io/poedit/poedit.html">https://bschug.github.io/poedit/poedit.html</a>
+
+Feel free to donate if you want to support me.
+You can do it in <a href="http://goo.gl/p31kNy">USD</a> (credit card or bank account) or <a href="https://paypal.me/ginto/0.5/">any currency</a> (PayPal).
+
+Created by Ginto for Mantlirach guild
+My IGN is Ginto_

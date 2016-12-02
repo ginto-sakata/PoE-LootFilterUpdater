@@ -1,0 +1,60 @@
+1:
+	name: NeverSink
+	url: https://raw.githubusercontent.com/NeverSinkGaming/NeverSink-Filter/master/NeverSink's Filter - Full version.filter
+	img: http://i.imgur.com/G7Xn3Nk.png
+	info: NeverSink's Indepth Loot Filter
+2:
+	name: NeverSink_Slick
+	url: https://raw.githubusercontent.com/NeverSinkGaming/NeverSink-Filter/master/NeverSink's Filter - Slick Version.filter
+	img: http://i.imgur.com/xBEDiat.png
+	info: NeverSink's Indepth Loot Filter SLICK VERSION
+4:
+	name: StupidFatHobbit
+	url: http://pastebin.com/raw/id64d1y8
+	img: http://i.imgur.com/BPagtzV.png
+	info: StupidFatHobbit's Filter: From Racing to 100, RaizQT Approved
+5:
+	name: Vexi
+	url: http://pastebin.com/raw/D6UUvEmy
+	img: http://i.imgur.com/TcgGgJB.png
+	info: Vexi's lootfilter
+6:
+	name: Ajido
+	url: http://pastebin.com/raw/RzG2QRkJ
+	img: http://i.imgur.com/f0g7Nqc.png
+	info: Ajido's Aesthetically Pleasing Loot Filter
+7:
+	name: OneFilterToRuleThemAll
+	url: http://www.thiessen.im/PoE/oftrta_v2.3.6.filter
+	img: http://i.imgur.com/8z75MkL.png
+	info: [Loot Filter] One Filter to Rule Them All
+8:
+	name: Antnee
+	url: https://gist.githubusercontent.com/Antnee83/64583c87817dec1fedd4/raw
+	img: http://i.imgur.com/YXUtrpM.png
+	info: Antnee's Classy Item Filter for Distinguished Exiles - Feature-rich, always up to date!
+
+9:
+	name: Sayya
+	url: https://raw.githubusercontent.com/SayyadinaAtreides/sayya-poe-filter/master/sayya_default.filter
+	img: http://i.imgur.com/xmnNuWH.png
+	info: Sayya's Item Filter 
+
+10:	
+	name: Aim
+	info: Aim's prophecy tribute filter
+	url: http://pastebin.com/raw/FrJm9h8T
+	img: http://i.imgur.com/XPaYF3V.png
+	
+3:
+
+	url: https://raw.githubusercontent.com/NeverSinkGaming/NeverSink-Filter/master/NeverSink's  Filter - Personal version.filter
+	name: NeverSink_personal
+	info: NeverSink's Indepth Loot Filter PERSONAL VERSION
+	img: http://i.imgur.com/SOLBhu9.png
+	
+11: 
+	name: ZiggyD
+	url: http://pastebin.com/raw/w6RfRmXE
+	info: ZiggyD's Loot Filter
+	img: http://i.imgur.com/gCHGbdx.png
