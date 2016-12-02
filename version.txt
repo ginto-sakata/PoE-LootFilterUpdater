@@ -1,1 +1,1 @@
-ver: Loot Filter Updater v0.4
+ver: Loot Filter Updater v0.4a
