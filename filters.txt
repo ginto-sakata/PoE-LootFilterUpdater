@@ -7,7 +7,7 @@
 2:
 	name: Neversink_blue
 	info: NeverSink's Indepth Loot Filter - Regular Version (Blue Style)
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/4.301/(STYLE) BLUE/NeverSink's filter - REGULAR (Blue) .filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) BLUE/NeverSink's filter - REGULAR (Blue) .filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Neversink_blue.png
 	
 3:
@@ -54,10 +54,10 @@
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/One_Filter_to_Rule_Them_All.png
 	
 10:
-	name: Greengroove_leveling
+	name: Greengroove_endgame
 	info: Greengroove's Loot Filter Scripts - leveling
-	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/GG 250a Filter/GG 250a leveling.filter
-	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Greengroove_leveling.png
+	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/GG 250c Filter/GG 250c endgame.filter
+	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Greengroove_endgame.png
 	
 11:
 	name: Barri
