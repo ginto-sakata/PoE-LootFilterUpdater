@@ -1,38 +1,38 @@
 1:
 	name: NeverSink
 	info: NeverSink's Indepth Loot Filter - Regular Version
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - REGULAR.filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - 1-REGULAR.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink.png
 	
 2:
 	name: Neversink_blue
 	info: NeverSink's Indepth Loot Filter - Regular Version (Blue Style)
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) BLUE/NeverSink's filter - REGULAR (Blue) .filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) BLUE/NeverSink's filter - 1-REGULAR (Blue) .filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Neversink_blue.png
 	
 3:
 	name: Neversink_slick
 	info: NeverSink's Indepth Loot Filter - Regular Version (Slick Style)
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) SLICK/NeverSink's filter - REGULAR (Slick) .filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/(STYLE) SLICK/NeverSink's filter - 1-REGULAR (Slick) .filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Neversink_slick.png
 	
 
 4:
 	name: NeverSink_SEMI-STRICT
 	info: NeverSink's Indepth Loot Filter - SEMI-STRICT Version
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - SEMI-STRICT.filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - 2-SEMI-STRICT.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink_SEMI-STRICT.png
 	
 5:
 	name: NeverSink_STRICT
 	info: NeverSink's Indepth Loot Filter - STRICT Version
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - STRICT.filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - 3-STRICT.filter
 	img:https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink_STRICT.png
 	
 6:
 	name: NeverSink_UBER-STRICT
 	info: NeverSink's Indepth Loot Filter - UBER-STRICT Version
-	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - UBER-STRICT.filter
+	url: https://raw.githubusercontent.com/NeverSinkDev/NeverSink-Filter/master/NeverSink's filter - 5-UBER-STRICT.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/NeverSink_UBER-STRICT.png
 	
 7:
@@ -50,13 +50,13 @@
 9:
 	name: One_Filter_to_Rule_Them_All
 	info: One Filter to Rule Them All
-	url: http://www.thiessen.im/PoE/oftrta_v2.5.0.filter
+	url: http://www.thiessen.im/PoE/oftrta_v2.5.1.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/One_Filter_to_Rule_Them_All.png
 	
 10:
 	name: Greengroove_endgame
-	info: Greengroove's Loot Filter Scripts - leveling
-	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/GG 250c Filter/GG 250c endgame.filter
+	info: Greengroove's Loot Filter Scripts - endgame
+	url: https://raw.githubusercontent.com/Greengroove/GG-LootFilter/master/Filter/GG%20endgame.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/Greengroove_endgame.png
 	
 11:
