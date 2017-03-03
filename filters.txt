@@ -50,7 +50,7 @@
 9:
 	name: One_Filter_to_Rule_Them_All
 	info: One Filter to Rule Them All
-	url: http://www.thiessen.im/PoE/oftrta_v2.5.1.filter
+	url: http://www.thiessen.im/PoE/oftrta_v2.6.0.filter
 	img: https://raw.githubusercontent.com/ginto-sakata/PoE-LootFilterUpdater/master/images/One_Filter_to_Rule_Them_All.png
 	
 10:
